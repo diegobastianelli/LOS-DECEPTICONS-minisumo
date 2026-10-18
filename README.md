@@ -5,7 +5,7 @@ Robot de mini-sumo autónomo diseñado y fabricado por el equipo **LOS DECEPTICO
 
 - Diego Bastianelli Lorenzo
 - Rubén Célix Rodríguez
-- Samuel Aprorar Magariños
+- Samuel Agrasar Magariños
 
 ## Descripción
 
