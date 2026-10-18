@@ -1,0 +1,1 @@
+Diseño 3D del chasis y la pala en PLA (pendiente).

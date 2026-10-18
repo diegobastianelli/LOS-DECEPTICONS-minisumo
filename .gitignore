@@ -1,0 +1,14 @@
+# KiCad
+*-backups/
+*.lck
+fp-info-cache
+*.kicad_prl
+_autosave-*
+# Sistema / editor
+.vscode/
+Thumbs.db
+desktop.ini
+# Firmware (PlatformIO / Arduino)
+.pio/
+build/
+.history/
